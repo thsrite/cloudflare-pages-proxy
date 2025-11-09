@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "description": "只允许白名单的API路径通过Functions处理",
+  "include": [
+    "/api/*"
+  ],
+  "exclude": []
+}
